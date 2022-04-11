@@ -1,2 +1,2 @@
 # pose-estimation
-pose estimation to identify student attentiveness
+Single person pose estimation using Mediapipe. The poses observed are grouped into attentive, innattentive and intermediate classes based on the dataset.
